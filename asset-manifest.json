@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/testTaskDomiki/static/css/main.9d5b29c0.chunk.css",
-    "main.js": "/testTaskDomiki/static/js/main.5303c444.chunk.js",
-    "main.js.map": "/testTaskDomiki/static/js/main.5303c444.chunk.js.map",
+    "main.js": "/testTaskDomiki/static/js/main.e4d14729.chunk.js",
+    "main.js.map": "/testTaskDomiki/static/js/main.e4d14729.chunk.js.map",
     "runtime-main.js": "/testTaskDomiki/static/js/runtime-main.b91ebeb1.js",
     "runtime-main.js.map": "/testTaskDomiki/static/js/runtime-main.b91ebeb1.js.map",
-    "static/js/2.462d4e0f.chunk.js": "/testTaskDomiki/static/js/2.462d4e0f.chunk.js",
-    "static/js/2.462d4e0f.chunk.js.map": "/testTaskDomiki/static/js/2.462d4e0f.chunk.js.map",
+    "static/js/2.c0d99d96.chunk.js": "/testTaskDomiki/static/js/2.c0d99d96.chunk.js",
+    "static/js/2.c0d99d96.chunk.js.map": "/testTaskDomiki/static/js/2.c0d99d96.chunk.js.map",
     "static/js/3.65e68dc7.chunk.js": "/testTaskDomiki/static/js/3.65e68dc7.chunk.js",
     "static/js/3.65e68dc7.chunk.js.map": "/testTaskDomiki/static/js/3.65e68dc7.chunk.js.map",
     "index.html": "/testTaskDomiki/index.html",
     "static/css/main.9d5b29c0.chunk.css.map": "/testTaskDomiki/static/css/main.9d5b29c0.chunk.css.map",
-    "static/js/2.462d4e0f.chunk.js.LICENSE.txt": "/testTaskDomiki/static/js/2.462d4e0f.chunk.js.LICENSE.txt"
+    "static/js/2.c0d99d96.chunk.js.LICENSE.txt": "/testTaskDomiki/static/js/2.c0d99d96.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.b91ebeb1.js",
-    "static/js/2.462d4e0f.chunk.js",
+    "static/js/2.c0d99d96.chunk.js",
     "static/css/main.9d5b29c0.chunk.css",
-    "static/js/main.5303c444.chunk.js"
+    "static/js/main.e4d14729.chunk.js"
   ]
 }
